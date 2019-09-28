@@ -5,10 +5,9 @@ def square_array(array)
  counter = 10 
  
  while counter < array.length do 
-   
-  
-end 
+   puts 
   
   counter += 1
+end 
   
 end

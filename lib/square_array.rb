@@ -1,7 +1,7 @@
 def square_array(array)
   # your code here
 
- new_nmbers = [ ] 
+ new_array = [ ] 
  counter = 10 
  
  while counter < array.length do 
